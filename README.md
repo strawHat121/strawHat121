@@ -16,6 +16,6 @@ My name is Kinjalk Bajpai. My main interest lies in working on backend and REST 
 
 - 💬 Ask me anything about Python and Flutter.
 
-- 📫 How to reach me: Contact me on Contact me on [kinjalkbajpai@gmail.com](mailto:kinjalkbajpai@gmail.com).
+- 📫 How to reach me: Contact me on [kinjalkbajpai@gmail.com](mailto:kinjalkbajpai@gmail.com).
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kinb98&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
