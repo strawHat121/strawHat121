@@ -1,7 +1,7 @@
 # 💫About Me :
 
 My name is Kinjalk Bajpai. I am a fullstack MERN developer with some expertise in python. I like to have thoughtful conversations about any topic.
-- 🔭 I’m currently working on challenges from [Dev Challenge](https://devchallenges.io/).
+- 🔭 I’m currently working on challenges from [Dev Challenges](https://devchallenges.io/).
 
 - 🌱 I’m currently learning MERN Stack.
 
