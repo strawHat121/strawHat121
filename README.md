@@ -1,11 +1,11 @@
 # 💫About Me :
 
 My name is Kinjalk Bajpai. I am a fullstack MERN developer with some expertise in python. I like to have thoughtful conversations about any topic.
-- 🔭 I’m currently working on a fullstack MERN project.
+- 🔭 I’m currently working on building CLI tools using Node.js.
 
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning CLI in Node.js.
 
-- 👯 I’m looking to collaborate on any fullstack project.
+- 👯 I’m looking to collaborate on any anything.
 
 - 📚 I am also a bibliophile.
 
@@ -16,11 +16,11 @@ My name is Kinjalk Bajpai. I am a fullstack MERN developer with some expertise i
 
 ### 👉 Programming languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 👉 Frontend Development
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 👉 Backend Development
 
@@ -47,7 +47,7 @@ My name is Kinjalk Bajpai. I am a fullstack MERN developer with some expertise i
 ## 🙋Let's Connect
 
 <p align="center">
-    <a href="https://kinjalkbajpai.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
+    <a href="https://kinjalkbajpai.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
 	<a href="mailto:kinjalkbajpai@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/kinjalk-bajpai-a96189143/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/kinjalkbajpai/"(https://www.linkedin.com/in/kinjalkbajpai/) target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
