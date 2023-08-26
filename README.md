@@ -39,10 +39,14 @@ My name is Kinjalk Bajpai. I am a fullstack MERN developer with some expertise i
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=strawHat121&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=strawHat121&theme=radical&hide_border=false)<br/>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=strawHat121&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="strawHat121" /> </p>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawHat121&hide=ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋Let's Connect
 
