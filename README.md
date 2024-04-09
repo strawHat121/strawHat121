@@ -8,9 +8,9 @@ Submitted **35** pull requests
 
 Received **13** stars
 
-Own **43** repositories
+Own **44** repositories
 
-Contributed to **8** public repositories
+Contributed to **7** public repositories
 
 Top 4 most used languages across your repositories:
 
